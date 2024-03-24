@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8SFQkNjbDRSeaKzpQ5Q7S/l5fgs6QGFszbP9HlZMa1tXhvtRwOCGkDBxrSjC55GMGbRdrlPyrx99AIKPe8Mqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manos\\Documents\\BTD6 Mod Sources\\MsMod\\MsMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\manos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\manos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
